@@ -6,3 +6,15 @@ sky:
     database: sky_take_out
     username: root
     password: 1234
+  alioss:
+    access-key-secret:
+    access-key-id:
+    bucket-name:
+    endpoint:
+  redis:
+    port: 6379
+    database: 0
+    host: localhost
+  wechat:
+    appid: wx68c2cdf5ff2b36d2
+    secret: 57e3fc9bd15f6750326206b8ebe982d6
